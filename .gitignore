@@ -1,0 +1,6 @@
+__pycache__
+.venv
+.ropeproject
+.pytest_cache
+sdt.json
+dist/
