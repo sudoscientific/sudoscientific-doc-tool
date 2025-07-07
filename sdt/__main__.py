@@ -1,3 +1,3 @@
 from .main import app
 
-app(prog_name="kcdt")
+app(prog_name="sdt")
